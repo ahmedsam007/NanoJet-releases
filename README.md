@@ -114,7 +114,7 @@ Download the latest version directly from GitHub:
 Capture downloads automatically from your browser:
 
 <a href="https://chromewebstore.google.com/detail/nanojet-interceptor/lcifecfkpdceaccnbbphhnfmpdlnkipn">
-  <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png" alt="Available in the Chrome Web Store" height="50">
+  <img src="images/chrome.jpeg" alt="Available in the Chrome Web Store" height="50">
 </a>
 
 ---
