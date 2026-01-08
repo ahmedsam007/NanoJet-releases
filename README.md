@@ -6,6 +6,11 @@ NanoJet is a fast, lightweight download manager for macOS.
 - Optional browser integration (Chrome/Chromium-based, Firefox)
 - Connection diagnostics and simple, clean UI
 
+## Platforms
+- **macOS:** Distributed via GitHub Releases (ZIP/DMG); current public build: 0.1.2.
+- **iOS:** Available on the App Store only (no DMG/ZIP). Current version: 0.1.2 (Build 3). App Store link: _add your public URL here_.
+- **Chrome/Chromium browsers:** Extension ZIP is included in the Releases assets; current build: 0.1.8. No source code is published.
+
 ## Download
 
 - Latest release: https://github.com/ahmedsam007/NanoJet-releases/releases/latest
@@ -15,10 +20,16 @@ NanoJet is a fast, lightweight download manager for macOS.
 - macOS 13.0 (Ventura) or later
 
 ## Install
+### macOS
 1) Download the latest `.zip` from the Releases page
 2) Extract and drag `NanoJet.app` to `Applications`
 3) First launch (Gatekeeper): right‑click `NanoJet.app` → Open → Open
    - If blocked, System Settings → Privacy & Security → Open Anyway
+
+### iOS
+1) Open the App Store link (see above).
+2) Install/update to NanoJet iOS v0.1.2 (Build 3).
+3) iOS builds are only distributed via the App Store; binaries are not attached to GitHub Releases.
 
 ## Browser extension
 - Chrome/Edge/Brave/Opera: use the extension zip included in each release asset
